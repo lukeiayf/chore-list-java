@@ -9,6 +9,6 @@ public class ChoresListApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ChoresListApplication.class, args);
 
-		System.out.println("Hello world");
+		System.out.println("All green");
 	}
 }
